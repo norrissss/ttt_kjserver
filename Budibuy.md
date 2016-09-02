@@ -1,4 +1,4 @@
-// Buy Binds
+#// Buy Binds
 // Hold down Backspace to activate weapon buy binds on
 // 1 2 3
 // Q W E
